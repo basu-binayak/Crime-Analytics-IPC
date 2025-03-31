@@ -1,7 +1,3 @@
-Here's the updated **README.md** blueprint with a **Contribution Guide** section.  
-
----
-
 # **📊 Crime-Analytics-IPC**  
 🚔 **Exploratory Data Analysis (EDA) on Crimes Under IPC in India**  
 
