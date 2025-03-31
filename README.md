@@ -115,5 +115,3 @@ Describe your changes and submit the PR for review.
 📜 MIT License – Feel free to use and modify!  
 
 ---
-
-Would you like me to add **badges** (like Python version, dependencies, etc.) or a **project demo** section? 🚀
